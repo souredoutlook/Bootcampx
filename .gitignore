@@ -1,1 +1,2 @@
 0_selects/0_student_by_cohort.sql
+0_selects/00_assignment_submissions_aggregate.sql
